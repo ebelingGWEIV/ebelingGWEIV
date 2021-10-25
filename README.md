@@ -78,7 +78,7 @@ The project that I am the most interested in picking up again is my laser pointe
     <a href="https://www.python.org/"> <img src="https://img.icons8.com/fluency/48/000000/python.png"/> </a>
   <a href="https://www.postgresql.org/"> <img src="https://www.postgresql.org/media/img/about/press/elephant.png" height=48 width=48>  </a>
     <a href"https://www.microsoft.com/en-us/windows/windows-11"> <img src="https://img.icons8.com/fluency/48/000000/windows-11.png"/> </a>
-    <a href="https://ubuntu.com/"> <img src="https://th.bing.com/th/id/R.1b93d691fad05ea1f9efbccc89685cf0?rik=QVvgQblfyWwEpQ&riu=http%3a%2f%2ficons.iconarchive.com%2ficons%2fmartz90%2fcircle%2f512%2fubuntu-icon.png&ehk=nDRqrzNjKMHRTdVIvlZ9iah6Jm%2bemeRELsowGKP8dc0%3d&risl=&pid=ImgRaw&r=0"></a>
+    <a href="https://ubuntu.com/"> <img src="https://th.bing.com/th/id/R.1b93d691fad05ea1f9efbccc89685cf0?rik=QVvgQblfyWwEpQ&riu=http%3a%2f%2ficons.iconarchive.com%2ficons%2fmartz90%2fcircle%2f512%2fubuntu-icon.png&ehk=nDRqrzNjKMHRTdVIvlZ9iah6Jm%2bemeRELsowGKP8dc0%3d&risl=&pid=ImgRaw&r=0" height=48 width=48></a>
 </p>
 
 ### My Github Stats
