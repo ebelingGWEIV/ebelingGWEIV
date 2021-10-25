@@ -1,8 +1,7 @@
-
 <a href="#"><img width="100%" height="auto" src="https://visme.co/blog/wp-content/uploads/2020/03/animation-software-header-wide.gif" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm George</h1>
-<h3 align="center">I'm an computer engineer interested in technology, small electronics, cyber security, computer vision, and etc. There's too much that I enjoy for a brief list, so hopefully this page helps you navigate my projects and get to know my passiosns.</h3>
+<h3 align="center">I'm a computer engineer interested in technology, small electronics, cyber security, computer vision, and etc. There's too much that I enjoy for a brief list, so hopefully this page helps you navigate my projects and get to know my passions.</h3>
 
 
 
@@ -10,24 +9,24 @@
 
 In every interview, the one fact about me that I make sure to share is my history with Boy Scouts. Earning my Eagle Scout in 2016, the scouting program shaped not only my love for the outdoors but it was also where I learned valuable leadership skills, picked up an extensive amount of strange skills (basket weaving, wood carving, snow shelter building, etc.), and was introduced to science and engineering.
 
-I attended Grand Valley State Univeristy for my undergraduate degree in Computer Engineering. During which I did three CoOp semesters with Active Inspection, an engineering company who focuses on computer vision. Grand Valley's program focused heavily on embedded engineering. My noteable electives were MIPS Architecture, Networking, Operating Systems, and Cryptography and Privacy. Leaving my program, I found that I enjoyed designing and developing mid level software to interact with hardware. 
+I attended Grand Valley State University for my undergraduate degree in Computer Engineering. During which I did three CoOp semesters with Active Inspection, an engineering company that focuses on computer vision. Grand Valley's program focused heavily on embedded engineering. My notable electives were MIPS Architecture, Networking, Operating Systems, and Cryptography and Privacy. Leaving my program, I found that I enjoyed designing and developing mid-level software to interact with hardware. 
 
 Now I am back at Grand Valley studying Applied Computer Science. The decision to go right back into school was hard to make. Some points that helped make the decision was that I have always had a desire to continue my education (just maybe not right away) and the 2 years for the degree is generally equated to 3-5 years of experience. *I have more to say on this, come back later for my full thoughts on my decision and reasons to attend graduate school.*
 
-Engineering was not the first direction I thought I would go. In high school I spent a year at the Ottowa County Careerline Tech Center learning about Information Technology and working towards my A+ certification. As much as I loved (and still love) working on computers, networking, and all the stuff I learned there, that exploration ended up showing me what I didn't want to do for a career. Because of it, I know my way around old and new computers, know how to run network cables, and can do my own RJ-45 puchdowns. 
+Engineering was not the first direction I thought I would go. In high school, I spent a year at the Ottowa County Careerline Tech Center learning about Information Technology and working towards my A+ certification. As much as I loved (and still love) working on computers, networking, and all the stuff I learned there, that exploration ended up showing me what I didn't want to do for a career. Because of it, I know my way around old and new computers, know how to run network cables, and can do my own RJ-45 pushdowns. 
 
 
 ### Areas of Interest
 
 #### Computer Vision
 
-My CoOp at Active Inspection was not by accident. I am attracted to what's most interesting, and the lessons on software development practices, project planning strategies, and the methods for performing computer vision certainly fit the bill. 
+My CoOp at Active Inspection was not by accident. I am attracted to what's most interesting, and the lessons on software development practices, project planning strategies and the methods for performing computer vision certainly fit the bill. 
 
-During the 2020 Covid-19 lockdowns in Michigan, I found myself pulled away from my CoOp and with a desire to continue exploring my interests in computer vision. This resulted my development of a test segmentation application. The final version has been lost to a corrupted harddrive, but you can checkout [this repo](https://github.com/ebelingGWEIV/Segmentation-Test-console-app) to see the mid-point of the project, and some of the pictures that resulted from it. I can't say that I'm proud of the code, but  I am proud of the resulting images and of all that I learned about segmentation, convolutions, and the new application for the linear algebra I learned in school.
+During the 2020 Covid-19 lockdowns in Michigan, I found myself pulled away from my CoOp and with a desire to continue exploring my interests in computer vision. This resulted in my development of a test segmentation application. The final version has been lost to a corrupted hard drive, but you can check out [this repo](https://github.com/ebelingGWEIV/Segmentation-Test-console-app) to see the mid-point of the project, and some of the pictures that resulted from it. I can't say that I'm proud of the code, but  I am proud of the resulting images and of all that I learned about segmentation, convolutions, and the new application for the linear algebra I learned in school.
 
 #### Cyber Security
 
-Ever since hearing the story of [Aaron Swartz](https://en.wikipedia.org/wiki/Aaron_Swartz) in high school, I've had a growing fascination with security. Right now, I find it to be the most interesting field in technology. The complexity for problems that must be solved, their time sensitivity, reforms required for the industry to become more effective, the progreess that has been made, and the progreess yet to be made are all incredibly complex factors that eevry company and agency must consider. 
+Ever since hearing the story of [Aaron Swartz](https://en.wikipedia.org/wiki/Aaron_Swartz) in high school, I've had a growing fascination with security. Right now, I find it to be the most interesting field in technology. The complexity of problems that must be solved, their time sensitivity, reforms required for the industry to become more effective, the progress that has been made, and the progress yet to be made are all incredibly complex factors that every company and agency must consider. 
 
 I feel that my undergraduate education best suits me for focusing on the security of operations and IoT devices. I have yet to do a side project related to cyber security, but as I find the time to work through [HackTheBox](https://www.hackthebox.eu/), [TryHackMe](https://tryhackme.com/), or find something related to embedded security to work on, I dd that here.
 
@@ -36,7 +35,7 @@ I feel that my undergraduate education best suits me for focusing on the securit
 
 #### Remote Laser Pointer
 
-The project that I am the most interested in picking up again is my laser pointer project. The goal of the project is to utilize eye tracking to control a laser pointer. The laser pointer is mounted to a rig controlled by a raspberry pi with two servos. In it's current form, it is far from complete, but with the time made available by my graduate classes I hope to make good progress on this.
+The project that I am the most interested in picking up again is my laser pointer project. The goal of the project is to utilize eye-tracking to control a laser pointer. The laser pointer is mounted to a rig controlled by a raspberry pi with two servos. In its current form, it is far from complete, but with the time made available by my graduate classes, I hope to make good progress on this.
 
 
 ### Class Projects
@@ -45,15 +44,15 @@ The project that I am the most interested in picking up again is my laser pointe
 
 Fortunately, this project has an excellent read.md, so feel free to check that out [here](https://github.com/computergeek1507/GVSU-CIS641-Jolly-Snowman). 
 
-tldr: Fancy Christmas light displays require the use of RGB addressable LEDs which need to be modeled in 2D space in order for them to be controlled correctly. Creating these models can be difficult, so we are making a video processor that will map the LEDs and export a .xmodel file to be used with XLights.
+TLDR: Fancy Christmas light displays require the use of RGB addressable LEDs which need to be modeled in 2D space in order for them to be controlled correctly. Creating these models can be difficult, so we are making a video processor that will map the LEDs and export a .xmodel file to be used with XLights.
 
 #### Remote Pi
 
-This project was started recently, but the goal is to speed up my work on my [laser pointer project](#Remote-Laser-Pointer) by removing the need to ever type code on my raspberry pi. I will be creating an extenson for Visual Studio Code that allows me to fun my project on a remote raspberry pi. Check out that project [here](https://github.com/ebelingGWEIV/RemotePi).
+This project was started recently, but the goal is to speed up my work on my [laser pointer project](#Remote-Laser-Pointer) by removing the need to ever type code on my raspberry pi. I will be creating an extension for Visual Studio Code that allows me to fun my project on a remote raspberry pi. Check out that project [here](https://github.com/ebelingGWEIV/RemotePi).
 
 #### Engineering Senior Project: Embedded IoT OTA Update Platform
 
-The senior project for my undergraduate degree taught me a lot about project management and working with a team. Tehcnically, I learned a lot about how IoT devices work, how to implement application layer networking protocols, about complex features of C and C++ and how to make them work together, and how over the air updates happen. I'm skipping over lots of small things that I learned, but it is no exaggeration to say that I learned a lot during the 9 months of my engineering senior project. At the end of the project, the team was very proud of what we had accomplished, and our work was recognized by our winning of the [Outstanding Senior Project Award](https://www.gvsu.edu/engineering/2021-engineering-design-conference-dornerworks-244.htm).
+The senior project for my undergraduate degree taught me a lot about project management and working with a team. Technically, I learned a lot about how IoT devices work, how to implement application-layer networking protocols, complex features of C and C++ and how to make them work together, and how over-the-air updates happen. I'm skipping over lots of small things that I learned, but it is no exaggeration to say that I learned a lot during the 9 months of my engineering senior project. At the end of the project, the team was very proud of what we had accomplished, and our work was recognized by our winning of the [Outstanding Senior Project Award](https://www.gvsu.edu/engineering/2021-engineering-design-conference-dornerworks-244.htm).
 
 The repository is private and is now maintained by the sponsor company, but a detailed summary and some videos about the project can be found [here](https://www.gvsu.edu/engineering/2021-engineering-design-conference-dornerworks-244.htm).
 
