@@ -5,7 +5,7 @@
 
 
 
-### About Me
+## About Me
 
 In every interview, the one fact about me that I make sure to share is my history with Boy Scouts. Earning my Eagle Scout in 2016, the scouting program shaped not only my love for the outdoors but it was also where I learned valuable leadership skills, picked up an extensive amount of strange skills (basket weaving, wood carving, snow shelter building, etc.), and was introduced to science and engineering.
 
@@ -16,7 +16,7 @@ Now I am back at Grand Valley studying Applied Computer Science. The decision to
 Engineering was not the first direction I thought I would go. In high school, I spent a year at the Ottowa County Careerline Tech Center learning about Information Technology and working towards my A+ certification. As much as I loved (and still love) working on computers, networking, and all the stuff I learned there, that exploration ended up showing me what I didn't want to do for a career. Because of it, I know my way around old and new computers, know how to run network cables, and can do my own RJ-45 pushdowns. 
 
 
-### Areas of Interest
+## Areas of Interest
 
 #### Computer Vision
 
@@ -28,33 +28,44 @@ During the 2020 Covid-19 lockdowns in Michigan, I found myself pulled away from 
 
 Ever since hearing the story of [Aaron Swartz](https://en.wikipedia.org/wiki/Aaron_Swartz) in high school, I've had a growing fascination with security. Right now, I find it to be the most interesting field in technology. The complexity of problems that must be solved, their time sensitivity, reforms required for the industry to become more effective, the progress that has been made, and the progress yet to be made are all incredibly complex factors that every company and agency must consider. 
 
-I feel that my undergraduate education best suits me for focusing on the security of operations and IoT devices. I have yet to do a side project related to cyber security, but as I find the time to work through [HackTheBox](https://www.hackthebox.eu/), [TryHackMe](https://tryhackme.com/), or find something related to embedded security to work on, I dd that here.
-
-
-### Side Projects
-
-#### Remote Laser Pointer
-
-The project that I am the most interested in picking up again is my laser pointer project. The goal of the project is to utilize eye-tracking to control a laser pointer. The laser pointer is mounted to a rig controlled by a raspberry pi with two servos. In its current form, it is far from complete, but with the time made available by my graduate classes, I hope to make good progress on this.
+I feel that my undergraduate education best suits me for focusing on the security of operations and IoT devices. I have yet to do a side project related to cyber security, but as I find the time to work through [HackTheBox](https://www.hackthebox.eu/), [TryHackMe](https://tryhackme.com/), or find something related to embedded security to work on, I will talk about that here.
 
 
 ### Class Projects
 
-#### Jolly Snowman
+#### [Jolly Snowman](https://github.com/computergeek1507/GVSU-CIS641-Jolly-Snowman)
 
-Fortunately, this project has an excellent read.md, so feel free to check that out [here](https://github.com/computergeek1507/GVSU-CIS641-Jolly-Snowman). 
+Fortunately, this project has an excellent read.md, so feel free to check that out. 
 
 TLDR: Fancy Christmas light displays require the use of RGB addressable LEDs which need to be modeled in 2D space in order for them to be controlled correctly. Creating these models can be difficult, so we are making a video processor that will map the LEDs and export a .xmodel file to be used with XLights.
 
-#### Remote Pi
+#### [Remote Pi](https://github.com/ebelingGWEIV/RemotePi)
 
-This project was started recently, but the goal is to speed up my work on my [laser pointer project](#Remote-Laser-Pointer) by removing the need to ever type code on my raspberry pi. I will be creating an extension for Visual Studio Code that allows me to fun my project on a remote raspberry pi. Check out that project [here](https://github.com/ebelingGWEIV/RemotePi).
+This project was started recently, but the goal is to speed up my work on my [laser pointer project](#Remote-Laser-Pointer) by removing the need to ever type code on my raspberry pi. I will be creating an extension for Visual Studio Code that allows me to fun my project on a remote raspberry pi. 
 
 #### Engineering Senior Project: Embedded IoT OTA Update Platform
 
-The senior project for my undergraduate degree taught me a lot about project management and working with a team. Technically, I learned a lot about how IoT devices work, how to implement application-layer networking protocols, complex features of C and C++ and how to make them work together, and how over-the-air updates happen. I'm skipping over lots of small things that I learned, but it is no exaggeration to say that I learned a lot during the 9 months of my engineering senior project. At the end of the project, the team was very proud of what we had accomplished, and our work was recognized by our winning of the [Outstanding Senior Project Award](https://www.gvsu.edu/engineering/2021-engineering-design-conference-dornerworks-244.htm).
+The senior project for my undergraduate degree taught me a lot about project management and working with a team. Technically, I learned a lot about how IoT devices work, how to implement application-layer networking protocols, complex features of C and C++ and how to make them work together, and how over-the-air updates happen. I'm skipping over lots of small things that I learned, but it is no exaggeration to say that I learned a lot during the 9 months of my engineering senior project. At the end of the project, the team was very proud of what we had accomplished, and our work was recognized by our winning of the Outstanding Senior Project Award.
 
 The repository is private and is now maintained by the sponsor company, but a detailed summary and some videos about the project can be found [here](https://www.gvsu.edu/engineering/2021-engineering-design-conference-dornerworks-244.htm).
+
+#### [Poll Together](https://github.com/Dhaller18/PollTogether)
+
+This project was my first real exploration into Python was and my first time making a web app. The idea of the project was to allow someone to create a question and some answers to it before sharing it with friends. The results were displayed for the creator and anyone who answered the question. 
+
+We used Flask as our web framework, MySQL for the database, Javascript for the graphs, and CSS was used to make the site presentable.
+
+#### [Chess with AI](https://github.com/allisonbickford/ChessGameWithAI)
+
+Why include a project you did as a sophomore in college? Because our AI solution was unique and I am still proud of that. My partner came up with the idea of using grand master chess games and emulate the moves they made. If we could ever do a move that matched what a grand master did, we would do that. If we couldn't, then we would use the usual for-loops that were required for our grade. In the end, we didn't make the best chess AI, but it made for a interesting project to discuss.
+
+
+### Side Projects
+
+#### [Remote Laser Pointer](https://github.com/ebelingGWEIV/LaserPointer)
+
+The project that I am the most interested in picking up again is my laser pointer project. The goal of the project is to utilize eye-tracking to control a laser pointer. The laser pointer is mounted to a rig controlled by a raspberry pi with two servos. In its current form, it is far from complete, but with the time made available by my graduate classes, I hope to make good progress on this.
+
 
 ### Languages and Tools:
 
@@ -65,7 +76,7 @@ The repository is private and is now maintained by the sponsor company, but a de
     <a href="https://docs.microsoft.com/en-us/dotnet/csharp/"> <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/> </a>
     <a href="https://www.cplusplus.com/"> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> </a>
     <a href="https://www.python.org/"> <img src="https://img.icons8.com/fluency/48/000000/python.png"/> </a>
-  <a href="https://www.postgresql.org/"> <img src="http://en.wikipedia.org/wiki/PostgreSQL"> </a>
+  <a href="https://www.postgresql.org/"> <img src="https://www.postgresql.org/media/img/about/press/elephant.png"> </a>
     <a href"https://www.microsoft.com/en-us/windows/windows-11"> <img src="https://img.icons8.com/fluency/48/000000/windows-11.png"/> </a>
 </p>
 
