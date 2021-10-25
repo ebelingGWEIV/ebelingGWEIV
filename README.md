@@ -76,7 +76,7 @@ The project that I am the most interested in picking up again is my laser pointe
     <a href="https://docs.microsoft.com/en-us/dotnet/csharp/"> <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/> </a>
     <a href="https://www.cplusplus.com/"> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> </a>
     <a href="https://www.python.org/"> <img src="https://img.icons8.com/fluency/48/000000/python.png"/> </a>
-  <a href="https://www.postgresql.org/"> <img src="https://www.postgresql.org/media/img/about/press/elephant.png" height=96 width=96>  </a>
+  <a href="https://www.postgresql.org/"> <img src="https://www.postgresql.org/media/img/about/press/elephant.png" height=48 width=48>  </a>
     <a href"https://www.microsoft.com/en-us/windows/windows-11"> <img src="https://img.icons8.com/fluency/48/000000/windows-11.png"/> </a>
 </p>
 
