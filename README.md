@@ -26,7 +26,7 @@ During the 2020 Covid-19 lockdowns in Michigan, I found myself pulled away from 
 
 #### Cyber Security
 
-Ever since hearing the story of [Aaron Swartz](https://en.wikipedia.org/wiki/Aaron_Swartz) in high school, I've had a growing fascination with security. Right now, I find it to be the most interesting field in technology. The complexity of problems that must be solved, their time sensitivity, reforms required for the industry to become more effective, the progress that has been made, and the progress yet to be made are all incredibly complex factors that every company and agency must consider. 
+Ever since hearing the stories of people like [Aaron Swartz](https://en.wikipedia.org/wiki/Aaron_Swartz) and [Marcus Hutchins](https://en.wikipedia.org/wiki/Marcus_Hutchins), I've had a growing fascination with security. Right now, I find it to be the most interesting field in technology. The complexity of problems that must be solved, their time sensitivity, reforms required for the industry to become more effective, the progress that has been made, and the progress yet to be made are all incredibly complex factors that every company and agency must consider. 
 
 I feel that my undergraduate education best suits me for focusing on the security of operations and IoT devices. I have yet to do a side project related to cyber security, but as I find the time to work through [HackTheBox](https://www.hackthebox.eu/), [TryHackMe](https://tryhackme.com/), or find something related to embedded security to work on, I will talk about that here.
 
