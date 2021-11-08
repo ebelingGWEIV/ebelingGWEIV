@@ -43,7 +43,7 @@ TLDR: Fancy Christmas light displays require the use of RGB addressable LEDs whi
 
 This project was started recently, but the goal is to speed up my work on my [laser pointer project](#Remote-Laser-Pointer) by removing the need to ever type code on my raspberry pi. I will be creating an extension for Visual Studio Code that allows me to fun my project on a remote raspberry pi. 
 
-#### [Engineering Senior Project: Embedded IoT OTA Update Platform](https://www.gvsu.edu/engineering/2021-engineering-design-conference-dornerworks-244.htm)
+#### [Engineering Senior Project: Embedded IoT OTA Update Platform](https://www.gvsu.edu/engineering/2021-engineering-design-conference-dornerworks-244.htm) - Complete
 
 The senior project for my undergraduate degree taught me a lot about project management and working with a team. Technically, I learned a lot about how IoT devices work, how to implement application-layer networking protocols, complex features of C and C++ and how to make them work together, and how over-the-air updates happen. I'm skipping over lots of small things that I learned, but it is no exaggeration to say that I learned a lot during the 9 months of my engineering senior project. At the end of the project, the team was very proud of what we had accomplished, and our work was recognized by our winning of the Outstanding Senior Project Award.
 
