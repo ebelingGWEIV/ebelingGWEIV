@@ -33,13 +33,13 @@ I feel that my undergraduate education best suits me for focusing on the securit
 
 ### Class Projects
 
-#### [Jolly Snowman](https://github.com/computergeek1507/GVSU-CIS641-Jolly-Snowman)
+#### [Jolly Snowman](https://github.com/computergeek1507/GVSU-CIS641-Jolly-Snowman) - On Going
 
 Fortunately, this project has an excellent read.md, so feel free to check that out. 
 
 TLDR: Fancy Christmas light displays require the use of RGB addressable LEDs which need to be modeled in 2D space in order for them to be controlled correctly. Creating these models can be difficult, so we are making a video processor that will map the LEDs and export a .xmodel file to be used with XLights.
 
-#### [Remote Pi](https://github.com/ebelingGWEIV/RemotePi)
+#### [Remote Pi](https://github.com/ebelingGWEIV/RemotePi) - On Going
 
 This project was started recently, but the goal is to speed up my work on my [laser pointer project](#Remote-Laser-Pointer) by removing the need to ever type code on my raspberry pi. I will be creating an extension for Visual Studio Code that allows me to fun my project on a remote raspberry pi. 
 
@@ -49,20 +49,22 @@ The senior project for my undergraduate degree taught me a lot about project man
 
 The repository is private and is now maintained by the sponsor company, but a detailed summary and some videos about the project can be found at the link above.
 
-#### [Poll Together](https://github.com/Dhaller18/PollTogether)
+#### [Poll Together](https://github.com/Dhaller18/PollTogether) - Complete
 
 This project was my first real exploration into Python was and my first time making a web app. The idea of the project was to allow someone to create a question and some answers to it before sharing it with friends. The results were displayed for the creator and anyone who answered the question. 
 
 We used Flask as our web framework, MySQL for the database, Javascript for the graphs, and CSS was used to make the site presentable.
 
-#### [Chess with AI](https://github.com/allisonbickford/ChessGameWithAI)
+My first programming experience was learning HTML/CSS at a summer camp held by BizStream, and after that experience I decided I never wanted to on designing websites. I appreciated this exploration into web app design, but it only supported my decision to go into computer engineering. 
+
+#### [Chess with AI](https://github.com/allisonbickford/ChessGameWithAI) - Complete
 
 Why include a project you did as a sophomore in college? Because our AI solution was unique and I am still proud of that. My partner came up with the idea of using grand master chess games and emulate the moves they made. If we could ever do a move that matched what a grand master did, we would do that. If we couldn't, then we would use the usual for-loops that were required for our grade. In the end, we didn't make the best chess AI, but it made for a interesting project to discuss.
 
 
 ### Side Projects
 
-#### [Remote Laser Pointer](https://github.com/ebelingGWEIV/LaserPointer)
+#### [Remote Laser Pointer](https://github.com/ebelingGWEIV/LaserPointer) - On Break
 
 The project that I am the most interested in picking up again is my laser pointer project. The goal of the project is to utilize eye-tracking to control a laser pointer. The laser pointer is mounted to a rig controlled by a raspberry pi with two servos. In its current form, it is far from complete, but with the time made available by my graduate classes, I hope to make good progress on this.
 
