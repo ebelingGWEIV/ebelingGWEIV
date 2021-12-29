@@ -30,6 +30,10 @@ Ever since hearing the stories of people like [Aaron Swartz](https://en.wikipedi
 
 I feel that my undergraduate education best suits me for focusing on the security of operations and IoT devices. I have yet to do a side project related to cyber security, but as I find the time to work through [HackTheBox](https://www.hackthebox.eu/), [TryHackMe](https://tryhackme.com/), or find something related to embedded security to work on, I will talk about that here.
 
+#### IT/IS
+
+My first venture into technology was actually in IT. In highschool I spent half of my junior year at a trade school working towards my A+ certification. Much of what I learned had to do with computer repair, help desk services, and how to be an administrator for Windows XP, Vista, and 7 computers. That year I laerned a lot about computers; which has helped me navigate and understand advanced computing concepts, translate what I've learned in embedded sysmtes into RTOS and standard operating systems, and be a better communicator when it comes to technology. More directly, I am very adept at trouble shooting and performing PC and technology repairs because of the training I received. 
+
 
 ### Class Projects
 
