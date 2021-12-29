@@ -45,7 +45,9 @@ TLDR: Fancy Christmas light displays require the use of RGB addressable LEDs whi
 
 #### [Remote Pi](https://github.com/ebelingGWEIV/RemotePi) - On Going
 
-This project was started recently, but the goal is to speed up my work on my [laser pointer project](#Remote-Laser-Pointer) by removing the need to ever type code on my raspberry pi. I will be creating an extension for Visual Studio Code that allows me to fun my project on a remote raspberry pi. 
+This project was started during the Fall 2021 semester. The goal is to speed up my work on my [laser pointer project](#Remote-Laser-Pointer) by removing the need to ever type code on my raspberry pi. I will be creating an extension for Visual Studio Code that allows me to cross compile my project from an x86 development environment to a remote raspberry pi. 
+
+While working on the project I noticed many people in online forums asking questions and sharing frustration similar to my own. Because of this, my goal for the project has extended to eventually publishing the extension to the VS Code extension marketplace so that others can avoid developing on their raspberry Pis too.
 
 #### [Engineering Senior Project: Embedded IoT OTA Update Platform](https://www.gvsu.edu/engineering/2021-engineering-design-conference-dornerworks-244.htm) - Complete
 
