@@ -32,7 +32,7 @@ I feel that my undergraduate education best suits me for focusing on the securit
 
 #### IT/IS
 
-My first venture into technology was actually in IT. In highschool I spent half of my junior year at a trade school working towards my A+ certification. Much of what I learned had to do with computer repair, help desk services, and how to be an administrator for Windows XP, Vista, and 7 computers. That year I laerned a lot about computers; which has helped me navigate and understand advanced computing concepts, translate what I've learned in embedded sysmtes into RTOS and standard operating systems, and be a better communicator when it comes to technology. More directly, I am very adept at trouble shooting and performing PC and technology repairs because of the training I received. 
+My first venture into technology was actually in IT. In my junior year of high school, the first half of each day was spent at a trade school working towards my A+ certification. Much of what I learned had to do with computer repair, help desk services, and how to be an administrator for Windows XP, Vista, and 7 computers. That year I laerned a lot about computers; which has helped me navigate and understand advanced computing concepts, translate what I've learned in embedded sysmtes into RTOS and standard operating systems, and be a better communicator when it comes to technology. More directly, I am very adept at trouble shooting and performing PC and technology repairs because of the training I received. 
 
 
 ### Class Projects
