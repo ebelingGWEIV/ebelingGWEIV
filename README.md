@@ -72,7 +72,8 @@ Why include a project you did as a sophomore in college? Because our AI solution
 
 #### [Remote Laser Pointer](https://github.com/ebelingGWEIV/LaserPointer) - On Break
 
-The project that I am the most interested in picking up again is my laser pointer project. The goal of the project is to utilize eye-tracking to control a laser pointer. The laser pointer is mounted to a rig controlled by a raspberry pi with two servos. In its current form, it is far from complete, but with the time made available by my graduate classes, I hope to make good progress on this. **note:** The remote repo for this project needs to be updated, currently it only holds the tcp test class.
+The project that I am the most interested in picking up again is my laser pointer project. The goal of the project is to utilize eye-tracking to control a laser pointer. The laser pointer is mounted to a rig controlled by a raspberry pi with two servos. In its current form, it is far from complete, but with the time made available by my graduate classes, I hope to make good progress on this. 
+**note:** The remote repo for this project needs to be updated, currently it only holds the tcp test class.
 
 
 ### Languages and Tools:
