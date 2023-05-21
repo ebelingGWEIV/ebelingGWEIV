@@ -11,9 +11,7 @@ In every interview, the one fact about me that I make sure to share is my histor
 
 I attended Grand Valley State University for my undergraduate degree in Computer Engineering. During which I did three CoOp semesters with Active Inspection, an engineering company that focuses on computer vision. Grand Valley's program focused heavily on embedded engineering. My notable electives were MIPS Architecture, Networking, Operating Systems, and Cryptography and Privacy. Leaving my program, I found that I enjoyed designing and developing mid-level software to interact with hardware. 
 
-Now I am back at Grand Valley studying Applied Computer Science. The decision to go right back into school was hard to make. Some points that helped make the decision was that I have always had a desire to continue my education (just maybe not right away) and back when I was applying to graduate school the job market seemed very uncertain (the covid-19 pandemic caused many companies to pause their hiring activities). However, the job market was nowhere as bad as some predicted it would be, so now I hoping to do classes part time and work full time.  
-
-Engineering was not the first direction I thought I would go. In high school, I spent a year at the Ottowa County Careerline Tech Center learning about Information Technology and working towards my A+ certification. As much as I loved (and still love) working on computers, networking, and all the stuff I learned there, that exploration ended up showing me what I didn't want to do for a career. Because of it, I know my way around old and new computers, know how to run network cables, and can do my own RJ-45 pushdowns. 
+After graduation, I continued my education at GVSU as a masters student of Applied Computer Science with concentrations in software engineering and cyber security. As I'm finding out, many computer science related mastes degrees can be less than exciting, and I found myself in one of those prorams. I used my class progjects to expand my knowledge into different areas and gain experience in different sub fields that I was interested in. The software projects can be found below, and I may eventually open repositories for the research papers that I wrote.
 
 
 ## Areas of Interest
@@ -29,10 +27,6 @@ During the 2020 Covid-19 lockdowns in Michigan, I found myself pulled away from 
 Ever since hearing the stories of people like [Aaron Swartz](https://en.wikipedia.org/wiki/Aaron_Swartz) and [Marcus Hutchins](https://en.wikipedia.org/wiki/Marcus_Hutchins), I've had a growing fascination with security. Right now, I find it to be the most interesting field in technology. The complexity of problems that must be solved, their time sensitivity, reforms required for the industry to become more effective, the progress that has been made, and the progress yet to be made are all incredibly complex factors that every company and agency must consider. 
 
 I feel that my undergraduate education best suits me for focusing on the security of operations and IoT devices. I have yet to do a side project related to cyber security, but as I find the time to work through [HackTheBox](https://www.hackthebox.eu/), [TryHackMe](https://tryhackme.com/), or find something related to embedded security to work on, I will talk about that here.
-
-#### IT/IS
-
-My first venture into technology was actually in IT. In my junior year of high school, the first half of each day was spent at a trade school working towards my A+ certification. Much of what I learned had to do with computer repair, help desk services, and how to be an administrator for Windows XP, Vista, and 7 computers. That year I laerned a lot about computers; which has helped me navigate and understand advanced computing concepts, translate what I've learned in embedded sysmtes into RTOS and standard operating systems, and be a better communicator when it comes to technology. More directly, I am very adept at trouble shooting and performing PC and technology repairs because of the training I received. 
 
 
 ### Class Projects
