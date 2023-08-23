@@ -7,12 +7,11 @@
 
 ## About Me
 
-In every interview, the one fact about me that I make sure to share is my history with Boy Scouts. Earning my Eagle Scout in 2016, the scouting program shaped not only my love for the outdoors but it was also where I learned valuable leadership skills, picked up an extensive amount of strange skills (basket weaving, wood carving, snow shelter building, etc.), and was introduced to science and engineering.
+I have been told time and again that the one fact I need to share is my history with Boy Scouts. Earning my Eagle Scout in 2016, the scouting program shaped not only my love for the outdoors but my leadership skills, and it taught me up an extensive amount of strange skills (basket weaving, wood carving, snow shelter building, etc.).
 
 I attended Grand Valley State University for my undergraduate degree in Computer Engineering. During which I did three CoOp semesters with Active Inspection, an engineering company that focuses on computer vision. Grand Valley's program focused heavily on embedded engineering. My notable electives were MIPS Architecture, Networking, Operating Systems, and Cryptography and Privacy. Leaving my program, I found that I enjoyed designing and developing mid-level software to interact with hardware. 
 
 After graduation, I continued my education at GVSU as a masters student of Applied Computer Science with concentrations in software engineering and cyber security. As I'm finding out, many computer science related mastes degrees can be less than exciting, and I found myself in one of those prorams. I used my class progjects to expand my knowledge into different areas and gain experience in different sub fields that I was interested in. The software projects can be found below, and I may eventually open repositories for the research papers that I wrote.
-
 
 ## Areas of Interest
 
@@ -28,6 +27,7 @@ Ever since hearing the stories of people like [Aaron Swartz](https://en.wikipedi
 
 I feel that my undergraduate education best suits me for focusing on the security of operations and IoT devices. I have yet to do a side project related to cyber security, but as I find the time to work through [HackTheBox](https://www.hackthebox.eu/), [TryHackMe](https://tryhackme.com/), or find something related to embedded security to work on, I will talk about that here.
 
+I hold a security clearance for my day job, which makes it difficult to do side projects related to cyber security. That does, however, remove the guilt that I might feel by doing side projects purely for fun.
 
 ### Class Projects
 
@@ -37,11 +37,13 @@ Fortunately, this project has an excellent read.md, so feel free to check that o
 
 TLDR: Fancy Christmas light displays require the use of RGB addressable LEDs which need to be modeled in 2D space in order for them to be controlled correctly. Creating these models can be difficult, so we are making a video processor that will map the LEDs and export a .xmodel file to be used with XLights.
 
-#### [Remote Pi](https://github.com/ebelingGWEIV/RemotePi) - On Going
+#### [Remote Pi](https://github.com/ebelingGWEIV/RemotePi) - Complete*
 
 This project was started during the Fall 2021 semester. The goal is to speed up my work on my [laser pointer project](#Remote-Laser-Pointer) by removing the need to ever type code on my raspberry pi. I will be creating an extension for Visual Studio Code that allows me to cross compile my project from an x86 development environment to a remote raspberry pi. 
 
 While working on the project I noticed many people in online forums asking questions and sharing frustration similar to my own. Because of this, my goal for the project has extended to eventually publishing the extension to the VS Code extension marketplace so that others can avoid developing on their raspberry Pis too.
+
+* Much more could be done to improve this tool, but I have found that the extension overcomplicates a somewhat problem. From this project, I gained more value from learning how to configure VSCode projects than I did from saving time by cross compiling and running files on a raspberry pi. 
 
 #### [Engineering Senior Project: Embedded IoT OTA Update Platform](https://www.gvsu.edu/engineering/2021-engineering-design-conference-dornerworks-244.htm) - Complete
 
