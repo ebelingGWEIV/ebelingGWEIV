@@ -43,11 +43,11 @@ This project was started during the Fall 2021 semester. The goal is to speed up 
 
 While working on the project I noticed many people in online forums asking questions and sharing frustration similar to my own. Because of this, my goal for the project has extended to eventually publishing the extension to the VS Code extension marketplace so that others can avoid developing on their raspberry Pis too.
 
-* Much more could be done to improve this tool, but I have found that the extension overcomplicates a somewhat problem. From this project, I gained more value from learning how to configure VSCode projects than I did from saving time by cross compiling and running files on a raspberry pi. 
+\* Much more could be done to improve this tool, but I have found that the extension overcomplicates the problem. From this project, I gained more value from learning how to configure VSCode projects than I did from saving time by cross compiling and running files on a raspberry pi. The Remote SSH tools in VSCode do not completely fix the problems that I was having, but it is good enough. 
 
 #### [Engineering Senior Project: Embedded IoT OTA Update Platform](https://www.gvsu.edu/engineering/2021-engineering-design-conference-dornerworks-244.htm) - Complete
 
-The senior project for my undergraduate degree taught me a lot about project management and working with a team. Technically, I learned a lot about how IoT devices work, how to implement application-layer networking protocols, complex features of C and C++ and how to make them work together, and how over-the-air updates happen. I'm skipping over lots of small things that I learned, but it is no exaggeration to say that I learned a lot during the 9 months of my engineering senior project. At the end of the project, the team was very proud of what we had accomplished, and our work was recognized by our winning of the Outstanding Senior Project Award.
+The senior project for my undergraduate degree taught me a lot about project management and working with a team. From a technical aspect, I learned a lot about how IoT devices work, how to implement application-layer networking protocols, complex features of C and C++ and how to make them work together, and how over-the-air updates happen. I'm skipping over lots of small things that I learned, but it is no exaggeration to say that I learned a lot during the 9 months of my engineering senior project. At the end of the project, the team was very proud of what we had accomplished, and our work was recognized by our winning of the Outstanding Senior Project Award.
 
 The repository is private and is now maintained by the sponsor company, but a detailed summary and some videos about the project can be found at the link above.
 
