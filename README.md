@@ -11,7 +11,7 @@ I have been told time and again that the one fact I need to share is my history 
 
 I attended Grand Valley State University for my undergraduate degree in Computer Engineering. During which I did three CoOp semesters with Active Inspection, an engineering company that focuses on computer vision. Grand Valley's program focused heavily on embedded engineering. My notable electives were MIPS Architecture, Networking, Operating Systems, and Cryptography and Privacy. Leaving my program, I found that I enjoyed designing and developing mid-level software to interact with hardware. 
 
-After graduation, I continued my education at GVSU as a masters student of Applied Computer Science with concentrations in software engineering and cyber security. As I'm finding out, many computer science related mastes degrees can be less than exciting, and I found myself in one of those prorams. I used my class progjects to expand my knowledge into different areas and gain experience in different sub fields that I was interested in. The software projects can be found below, and I may eventually open repositories for the research papers that I wrote.
+After graduation, I continued my education at GVSU as a masters student of Applied Computer Science with concentrations in software engineering and cyber security. Each class project was an opportunity to expand my knowledge into different areas and gain experience in different sub fields that I was interested in. The software projects can be found below, and I may eventually open repositories for the research papers that I wrote.
 
 ## Areas of Interest
 
