@@ -1,7 +1,7 @@
 <a href="#"><img width="100%" height="auto" src="https://visme.co/blog/wp-content/uploads/2020/03/animation-software-header-wide.gif" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm George</h1>
-<h3 align="center">I'm a computer engineer interested in technology, small electronics, cyber security, computer vision, and etc. There's too much that I enjoy for a brief list, so hopefully this page helps you navigate my projects and get to know my passions.</h3>
+<h3 align="center">I'm a computer engineer interested in technology, small electronics, cyber security, virtual reality, computer vision, and etc. There's too much that I enjoy for a brief list, so hopefully this page helps you navigate my projects and get to know my passions.</h3>
 
 
 
@@ -17,17 +17,31 @@ After graduation, I continued my education at GVSU as a masters student of Appli
 
 ### Cyber Security
 
-There may not be any cyber security related projects listed below, but that doesn't mean that I'm not spending 9 hours a day working in the industry. At work, I develop programs, tools, and mechanisms which align with customer requirements on classified projects. The majority of my work is spent as a software engineer, but I have been part of an in-office training cohort to gain experience with vulnerability research (VR). I find VR to be exciting because of the creativity that goes into it, but my brain feels so well suited for complex software design that I continue to spend most of my time designing, debugging, and writing cyber software.
+There may not be any cyber security related projects listed below, but that doesn't mean that I'm not spending 9 hours a day working in the industry. At work, I develop programs, tools, and mechanisms which align with customer requirements on classified projects. The majority of my work is spent as a software engineer, but I have also worked as a vulnerability researcher (VR). I find VR to be exciting because of the creativity that goes into it, but my brain feels so well suited for complex software design. With that realization, I've continued to spend most of my time designing, debugging, and writing cyber software.
 
 Right now, I find it to be the most interesting field in technology. The complexity of problems that must be solved, their time sensitivity, the reforms required for the industry to become more effective, the progress that has been made, and the progress yet to be made are all incredibly complex factors that every company and agency must consider. And yet, I feel most driven by opportunities to work on cool projects and find ways to do what hasn't been done before.
 
 If you give it enough time, I'm sure you'll find my attempt to run DOOM! on a smart tooth brush or a DSLR camera listed below.
 
+### Virtual Reality
+
+As early as 2013, virtual reality was a driving interest for me in technology. It was the expanding field which drew me towards studying computer engineering in the first place. My interest has since faded, but I haven't fully lost my excitment for tech. You won't find it here, but I have been working on a semi-secret VR app. Working in this space, which is more akin to game design than the software development that I'm used to, has challenged how I plan and organize projects. Not only is there code to write, but there are assets to design, music to play, and artwork to make. Budgeting time and resources to complete those tasks is beyond what I can estimate accurately. However, the challenge of learning to do those things has, at least for now, been a nice excuse to pickup new skills. Some might call learning the Ukelele procrastination, but I can say that I need it for my app's soundtrack.
+
+At the moment, I'm developing with the Unity engine with the Quest 3 as my main device. The plan is to eventually release on the Meta Store and on Steam. A public release will bring its own challenges and I'm sure be an opportunity to learn business skills and about how online marketplaces work.
+
 ### Computer Vision
 
 My CoOp at Active Inspection was not by accident. It may not have been the flashiest company to work for, but the lessons on software development practices, project planning strategies and the methods for performing computer vision had no comparison. I learned something new every day from what I needed to succeed as an engineer to how to design a multi-layer program from data input to storage to processing to display.
 
-During the 2020 Covid-19 lockdowns, I found myself pulled away from my CoOp and with a desire to continue exploring my interests in computer vision. This resulted in my development of a test segmentation application. The final version has been lost to a corrupted hard drive, but you can check out [this repo](https://github.com/ebelingGWEIV/Segmentation-Test-console-app) to see a mid-point of the project and some of the pictures that resulted from it. I can't say that I'm proud of the code, but  I am proud of the resulting images and of all that I learned about segmentation, convolutions, and the  application for the linear algebra I learned in school.
+During the 2020 Covid-19 lockdowns, I found myself pulled away from my CoOp and with a desire to continue exploring my interests in computer vision. This resulted in my development of a test segmentation application. The final version has been lost to a corrupted hard drive, but you can check out [this repo](https://github.com/ebelingGWEIV/Segmentation-Test-console-app) to see a mid-point of the project and some of the pictures that resulted from it. I can't say that I'm proud of the code, but  I am proud of the resulting images and of all that I learned about segmentation, convolutions, and the application for the linear algebra I learned in school.
+
+## Post School Projects
+
+### [Notes of Adventure](https://github.com/ebelingGWEIV/NotesOfAdventure)
+
+Beyond software development, I am a man of hobbies. One of my favorite hobbies is rock climbing. Since 2020, I have climbed at the Red River Gorge (KY), King's Bluff (TN), Oak Park (MI), Foster Falls (TN), Stone Fort (TN), Mad River Gorge (OH), New River Gorge (WV), and Horseshoe Canyon (AR). Another is backpacking, which has a less impressive punch card of well-known trails: Manistee River Trail (MI) and Lake Vesuvius Backpacker Trail (OH).
+
+Starting in 2025, I began blogging about my hobbies and adventures. Since I am a softawre engineer, I did write the website and setup the DNS entries myself. If you'd like to see the public site, you can find that at [NotesOfAdventure.com](https://www.notesofadventure.com/)
 
 ## Class Projects
 
